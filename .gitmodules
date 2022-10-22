@@ -1,3 +1,6 @@
 [submodule "lesson2"]
 	path = lesson2
 	url = https://github.com/katyalazareva74/Remote.git
+[submodule "lesson3"]
+	path = lesson3
+	url = https://github.com/katyalazareva74/Remote.git
